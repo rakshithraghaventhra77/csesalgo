@@ -2,4 +2,9 @@ hihhi
 
 
 Process:
-ANY MODIFICATION --> git add test3.txt --> git commit -m  "    " ---> git add test3.txt  --- > git push origin
+ANY MODIFICATION --> git add test3.txt --> git commit -m  "    " --->  git push origin
+
+
+
+Pull request:
+commit change in github website --> git pull 
